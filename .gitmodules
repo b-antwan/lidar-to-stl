@@ -1,0 +1,9 @@
+[submodule "stl"]
+	path = stl
+	url = ssh://git@ssh.hesge.ch:10572/antoine.blancy/stl.git
+[submodule "c_vector_ci"]
+	path = c_vector_ci
+	url = ssh://git@ssh.hesge.ch:10572/antoine.blancy/c_vector_ci.git
+[submodule "triangle"]
+	path = triangle
+	url = ssh://git@ssh.hesge.ch:10572/antoine.blancy/triangle.git
